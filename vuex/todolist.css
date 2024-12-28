@@ -1,0 +1,55 @@
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    line-height: 2.5;
+}
+
+.main{
+    position: absolute;
+    left: 40%;
+    top: 25%;
+}
+h1{
+    font-size: 300%;
+    position: absolute;
+    left: 41%;
+    top: 10%;
+}
+
+.btn {
+    background: none;
+    border: solid 1px;
+    border-radius: 2em;
+    font: inherit;
+    padding: 0.1em 0.75em;
+}
+
+.btn1 {
+    background: none;
+    border: solid 1px;
+    border-radius: 2em;
+    padding: 0.1em 0.75em;
+}
+
+.btn1:hover{
+    background-color: darkgray;
+}
+
+.btn:hover{
+    background-color: darkgray;
+}
+
+input{
+    background: none;
+    border: solid 1px;
+    border-radius: 2em;
+    font: inherit;
+    padding: 0.25em 1em;
+}
